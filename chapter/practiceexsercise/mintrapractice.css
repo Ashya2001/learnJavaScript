@@ -1,0 +1,20 @@
+.addt{
+    padding: 5px 15px;
+    background-color: green;
+    border-radius: 10px;
+
+}
+
+.mov{
+    padding: 5px 40px;
+    border: solid black;
+    border-radius:10px ;
+
+}
+
+.item{
+    padding: 5px 15px;
+    background-color: green;
+    border-radius: 10px;
+
+}
